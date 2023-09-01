@@ -1,0 +1,47 @@
+
+    body {
+        margin: auto;
+    }
+
+    header {
+        background-color: black;
+        padding: 10px;
+    }
+
+    header > h1 {
+        color: white;
+        font: normal bolder 5em Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+
+    header > p {
+        color: white;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    p {
+        text-align: left;
+    }
+
+    p.imagem1 {
+        background-image: url('imagens/background001.jpg');
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    p.imagem2 {
+        background-image: url('imagens/background002.jpg');
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    footer{
+        color: white;
+        background-color: black;
+        padding: 5px;
+    }
